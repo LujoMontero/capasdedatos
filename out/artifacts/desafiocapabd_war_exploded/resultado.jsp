@@ -7,10 +7,11 @@
 <body>
 <%@include file="assets/html/header.jsp" %>
 
-<section class="container">
 
-</section>
+<div class="container p-5 text-center">
 
-<%@include file="assets/html/footer.jsp"%>
+</div>
+
+<%@include file="assets/html/footer.jsp" %>
 </body>
 </html>
