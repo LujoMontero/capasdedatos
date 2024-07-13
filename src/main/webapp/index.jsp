@@ -8,7 +8,7 @@
 <%@include file="assets/html/header.jsp" %>
 
 <section class="container">
-    <form class="row g-3 p-5 needs-validation" novalidate>
+    <form class="row g-3 p-5 needs-validation" novalidate method="post" action="vista.jsp">>
         <div class="col-md-4">
             <label for="nombre" class="form-label">Nombre Apellido</label>
             <input type="text" class="form-control" id="nombre" name="Nombre" required>

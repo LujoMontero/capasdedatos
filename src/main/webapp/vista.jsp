@@ -8,9 +8,9 @@
 <%@include file="assets/html/header.jsp" %>
 
 
-<div class="container p-5 text-center">
+<section class="container">
 
-</div>
+</section>
 
 <%@include file="assets/html/footer.jsp" %>
 </body>
