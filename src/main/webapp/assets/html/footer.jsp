@@ -1,7 +1,7 @@
 <!-- Footer-->
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Luis Montero WEB &copy; 2.024. <a href="#top">Ir arriba</a></p>
+        <p class="m-0 text-center text-white">Luis Montero WEB &copy; 2.024. <a href="#top">go up</a></p>
         <p class="m-0 text-center text-white">Desafio Latam - 2024</p>
         <div class="text-center">
             <a href="https://github.com/LujoMontero" target="_blank"> <img src="assets/img/github.png" class="bg-white rounded" width="40px"></a>

@@ -13,7 +13,7 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                 <li class="nav-item"><a class="nav-link active"
                                         aria-current="page"
-                                        href="user?action=list">Inicio</a></li>
+                                        href="user?action=list">Beginning</a></li>
             </ul>
         </div>
     </div>
@@ -22,7 +22,7 @@
 <header class="bg-dark py-5">
     <div class="container px-4 px-lg-5 my-5">
         <div class="text-center text-white">
-            <h1 class="display-4 fw-bolder">Formulario</h1>
+            <h1 class="display-4 fw-bolder">Form</h1>
         </div>
     </div>
 </header>

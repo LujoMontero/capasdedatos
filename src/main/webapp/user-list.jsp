@@ -8,11 +8,11 @@
 <body>
 <%@include file="assets/html/header.jsp" %>
 
-<section class="container">
+<section class="container p-3">
 
-    <h2>User List</h2>
+    <h2 class="text-center">User List</h2>
 
-    <table class="table">
+    <table class="table table-striped">
         <thead>
             <tr>
                 <th scope="col">ID</th>
@@ -23,6 +23,7 @@
                 <th scope="col">Phone</th>
                 <th scope="col">Contact</th>
                 <th scope="col">Phone2</th>
+                <th scope="col">Activity</th>
 
             </tr>
         </thead>
@@ -36,6 +37,7 @@
                     <td>${user.address}</td>
                     <td>${user.phone}</td>
                     <td>${user.contact}</td>
+                    <td>${user.phone2}</td>
 
                     <td>
                         <a href="user?action=view&id=${user.userId}">View</a>
@@ -47,7 +49,7 @@
         </tbody>
     </table>
 
-    <a href="user?action=new">New User</a>
+    <h2 class="text-center"><a href="user?action=new">New User</a></h2>
 
 </section>
 
