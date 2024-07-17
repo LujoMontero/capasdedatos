@@ -1,6 +1,6 @@
-CREATE DATABASE proveedores;
+CREATE DATABASE desafiocapaadb;
 
-USE proveedores;
+USE desafiocapaadb;
 
 CREATE TABLE proveedores (
     id INT AUTO_INCREMENT PRIMARY KEY,
